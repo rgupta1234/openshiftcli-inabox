@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/rhel7/rhel-atomic 
+FROM FROM centos:7
 MAINTAINER Veer Muchandi<veer@redhat.com>
 
 ENV SIAB_VERSION=2.19 \
